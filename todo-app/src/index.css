@@ -50,6 +50,13 @@ input, select {
   font-size: 14px;
 }
 
+/* Header logo */
+.header-logo {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+}
+
 /* Buttons */
 .btn {
   display: inline-flex;

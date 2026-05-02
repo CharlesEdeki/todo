@@ -13,6 +13,7 @@ export default function App() {
       <header className="header">
         <div className="header-brand">
           <div className="header-dot" />
+           <img src="/logo.svg" alt="Todo App logo" className="header-logo" />
           <h1 className="header-title">Todos</h1>
         </div>
       </header>
